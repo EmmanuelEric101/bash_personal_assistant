@@ -24,3 +24,5 @@ It includes basic features using user input, functions, file handling, and menus
 
 ```bash
 chmod +x personal_assistant_tool.sh
+  And then
+./personal_assistant_tool.sh
