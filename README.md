@@ -29,3 +29,5 @@ chmod +x personal_assistant_tool.sh
   ```bash
 ./personal_assistant_tool.sh
 ```
+All logs are saved in a file called `log.txt` in the same directory.
+You can view or clear logs from the menu.
